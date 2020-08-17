@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-gulp';
+
+  showMessage(e:any){
+    console.log(e.target.innerHTML)
+  }
 }
+

@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-gulp"
+    }
+  },
+  "defaultProject": "angular-gulp",
+  "cli": {
+    "analytics": "d5040936-c693-4bbd-ac06-139542311fa5"
+  }
 }
